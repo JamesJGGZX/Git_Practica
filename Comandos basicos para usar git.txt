@@ -14,4 +14,7 @@ git commit = Se utiliza para generar la version del proyecto y agregar los comen
 
 git commit -m "" = Se utiliza para colocar los comentarios de la nueva version que se genere sin la necesidad de pasar al editor de codigo
 
+git log = Se utiliza para ver la version y la rama a la que pertenece la version de ese proyecto junto con el nombre del autor con su correo electronico, fecha exacta, hora de su creacion y el comentario de dicha version que se agrego en el commit
+
+git log --oneline = Se utiliza para solo mostrar el comentario de la version (commit) y la rama a la que pertence el proyecto
 
