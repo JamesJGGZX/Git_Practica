@@ -1,0 +1,17 @@
+git version = Se coloca para mirar la version de git que se tiene instalada y para verificar que realmente se instalo
+
+git config --global user.name "" = Se utiliza para asignar un nombre de usuario
+
+git config --global user.email "" = Se utiliza para asignar un correo electronico (preferiblemente colocar el de la cuenta de github)
+
+git init = Se utiliza para iniciar un proyecto en git 
+
+git add = Se utiliza para agregar archivos al proyecto
+
+git add . = Se utiliza para agregar todos los archivos que se encuentran en la carpeta al proyecto
+
+git commit = Se utiliza para generar la version del proyecto y agregar los comentarios de dicha version
+
+git commit -m "" = Se utiliza para colocar los comentarios de la nueva version que se genere sin la necesidad de pasar al editor de codigo
+
+
