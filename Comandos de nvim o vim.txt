@@ -1,0 +1,88 @@
+nvim = para entrar al editor de texto
+
+nvim "nombre del archivo a editar" = para editar el texto de un archivo (colocar sin comillas)
+
+q = para salir de nvim
+
+w = para guardar el texto 
+
+wq = para salir y guardar
+
+i = para insertar texto en la izquierda
+
+a = para insertar texto a la derecha
+
+j = para moverse hacia abajo
+
+k = para moverse hacia arriba
+
+h = para moverse hacia la izquierda
+
+l = para moverse hacia la derecha 
+
+w = para moverse al principio de cada caracter hacia la derecha
+
+e = para moverse al principio de cada caracter hacia la derecha
+
+b = para moverse al principio de cada caracter hacia la izquierda
+
+dw = para eliminar palabras completas
+
+u = para deshacer lo eliminado o borrado
+
+Ctrl r = para re hacer los cambios que se hallan hecho
+
+d shift = para eliminar una linea de texto entera
+
+de = para eliminar palabras completas hacia adelante
+
+db = para eliminar palabras copletas desde atras
+
+d "numero de palabras a eliminar" = se utiliza para eliminar un determinado numero de palabras ejemplo d6, d9, d5
+
+dd = para cortar una linea de codigo
+
+p = para pegar una linea de texto copiada abajo 
+
+P = para pegar una linea de texto arriba
+
+r "cualquier caracter" = en caso de equivocarse al escribir se puede usar para corregir (casi no se usa)
+
+cw = se utiliza para borrar una palabra y ingresar una nueva
+
+ciw = se usa para eliminar una palabra sin importar donde este el cursor 
+
+gg = para ir al comienzo del archivo
+
+G = para ir al final del archivo
+
+"numero de la linea" G = se utiliza para ir directamente a la linea que se necesite en el archivo o texto
+
+modo normal poner: / = se utiliza para hacer una busqueda espesifica en el texto (a partir de donde se encuentre el cursor)
+
+modo normal poner: ? = se utiliza para buscar todas las coincidencias de ese caracter (moverse con la n)
+
+% = se utiliza para ir a la llave correspondiente y parentesis o corchetes correspondientes
+
+0 = para ir al final de la linea
+
+modo normal :s/caracter/caracter nuevo/ = ejemplo :s/the/de = se usa para cambiar un caracter desde el terminal de forma espesifica (solo funciona para la linea donde se ecuentra el cursor)
+
+modo normal :s/caracter/caracter nuevo/g = ejemplo s:s/the/de/g = se usa para cambiar todos los caracteres que se elijan por uno nuevo desde el terminal de forma espesifica (solo funciona para la linea donde se ecuentra el cursor)
+
+modo normal :%s/numeros/unoAlCinco/gc = se usa para reemplazar todos los caracteres que se coloquen
+
+o = se usa para una nueva linea abajo
+
+shift o = se usa para una nueva linea arriba
+
+v = modo visual
+
+y = para copiar
+
+Ctrl n = para abrir el arbol de navegacion
+
+
+
+
+
