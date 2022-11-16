@@ -18,3 +18,5 @@ git log = Se utiliza para ver la version y la rama a la que pertenece la version
 
 git log --oneline = Se utiliza para solo mostrar el comentario de la version (commit) y la rama a la que pertence el proyecto
 
+git push = Se utiliza para cargar los archivos nuevos del proyecto a la nube de github
+
