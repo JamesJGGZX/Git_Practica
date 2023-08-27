@@ -1,0 +1,384 @@
+Horarios de la Carrera de Ingeniería de Sistemas por semestre:
+
+Estudiantes:
+1. Daniel Tacoa
+2. James Sanchéz
+3. Miriam Bracho
+4. Marco Quintana
+5. David Hernandez
+6. Verónica Granados
+7. José Martinez
+8. Isaac Blanco
+9. Master One
+
+Profesores disponibles para impartir materias:
+1. Nicolas Adames - Matemática I, II, III
+2. Enma Valecillos - Logica Matemática, Circuitos Logicos, Arquitectura del Computador
+3. Armando Vegas - Sistemas Administrativos, Sistemas de Producción, Metodología de la Investigación
+4. Denny Colina - Dibujo, Geometría Analítica, Eduación Ambiental
+5. Wilmer Calmauta - Teoría de Sistemas, Analisis de Sistemas, Diseño de Sistemas
+6. Yernay Perez - Hombre Sociedad Ciencia y Tecnología, Química General, Probabilidad y Estadistica
+7. Jhon Ledezma - Física I, Física II, Aljebra Lineal
+8. Karen Orochoa - Programación, Ingles I, Ingles II
+9. Lucía Santeramo - Lenguaje de Programación I, II, III
+10. Oliver Mundaray - Seminario I, Seminario II, Auditoria de Sistemas
+11. Ninoska Cardona - Procesamiento de Datos, Bases de Datos, Implantación de Sistemas
+12. Carlos Bastida - Cálculo Numérico, Investigación de Operaciones, Optimización No Lineal
+13. Angel Guzman - Simulación y Modelos, Teoría de las Decisiones, Teleprocesos
+14. Miguel Jimenez - Sistemas Operativos, Procesos Estocasticos, Redes
+15. Melvin Contrera - Marco Legal para el ejercicio de la Ingeniería, Electiva Técnica I, Electiva No Ténica I
+16. Izamar Barrios - Teoría de Grafos, Gerencia de la Informática, Electiva Técnica II
+17. Kelvin Centeno - Electiva No Ténica II
+
+Codigos de horario de estudiantes por semestre:
+Semestre 1: 1-2020
+Semestre 2: 2-2020
+Semestre 3: 1-2021
+Semestre 4: 2-2021
+Semestre 5: 1-2022
+Semestre 6: 2-2022
+Semestre 7: 1-2023
+Semestre 8: 2-2023
+Semestre 9: 1-2024
+
+Materias por semestre:
+Semestre 1:
+- Dibujo = DIBU
+- Eduación Ambiental = EDUAM
+- Geometría Analítica = GEOAL
+- Hombre, Sociedad, Ciencia y Tecnología = HSCT
+- Ingles I = ING1
+- Matemáticas I = MATT1
+- Seminario I = SEMN1
+
+Semestre 2:
+- Aljebra Lineal = ALJB
+- Física I = FISC1
+- Ingles II = ING2
+- Matemáticas II = MATT2
+- Química General = QUIMG
+- Seminario II = SEMN2
+
+Semestre 3:
+- Física II = FISC2
+- Matemática III = MATT3
+- Probabilidad y Estadistica = PROES
+- Progrmación = PRGC
+- Sistemas Administrativos = SSAD
+
+Semestre 4:
+- Cálculo Numérico = CANUM
+- Lenguaje de Programción I = LENPR1
+- Lógica Matemática = LOMATT
+- Procesamiento de Datos = PROD
+- Sistemas de Producción = SSPR
+- Teoría de Sistemas = TSS
+
+Semestre 5:
+- Análisis de Sistemas = NSS
+- Base de Datos = BASDA
+- Circuitos Logicos = CILOG
+- Investigación de Operaciones = INOP
+- Lenguaje de Programación II = LENPR2
+- Teoría de Grafos = TGG
+
+Semestre 6:
+- Arquitectura del Computador = ARCOM
+- Diseño de Sistemas = DSS
+- Lenguaje de Programción III = LENPR3
+- Optimización No Lineal = OPLIN
+- Procesos Estocásticos = PRES
+- Sistemas Operativos = SSOP
+
+Semestre 7:
+- Gerencia de la Informática = GDIN
+- Implantación de Sistemas = ISS
+- Metodología de la Investigación = MEDIN
+- Redes = REDD
+- Simulación y Modelos = SIMMO
+- Electiva Técnica I = ELTE1
+- Electiva No Técnica I = ELNT1
+
+Semestre 8:
+- Auditoría de Sistemas = DSS
+- Marco Legal para el Ejercicio de la Ingeniería = MLEI
+- Teleprocesos = TTLP
+- Teoría de las Decisiones = TTDC
+- Electiva Técnica II = ELTE2
+- Electiva No Técnica II = ELNT2
+
+Semestre 9:
+- Pasantias = Pasantias 
+
+Horarios:
+Ten en cuenta que son 9 horarios para cada semestre por matería y se ven clases de Lunes a Sabado
+
+1. Horario Primer Semestre:
+
+Hora/Entrada/Salida----------Lunes----------Martes----------Miercoles----------Jueves----------Viernes----------Sabado
+
+7:00 - 7:45------------------DIBU----------------------------------------------MATT1
+
+7:45 - 8:30------------------DIBU-----------GEOAL------------------------------MATT1
+
+8:30 - 9:15------------------DIBU-----------GEOAL------------------------------MATT1
+
+9:15 - 10:00-----------------    -----------GEOAL
+
+10:00 - 10:45
+
+10:45 - 11:30----------------EDUAM-----------    ------------ING1
+
+11:30 - 12:15----------------EDUAM-----------    ------------ING1
+
+13:00 - 13:45----------------     --------------------------------------------------------------HSCT
+
+13:45 - 14:30----------------     --------------------------------------------------------------HSCT-------------SEMN1     
+
+14:30 - 15:15----------------     -------------------------------------------------------------------------------SEMN1
+
+15:15 - 16:00----------------     -------------------------------------------------------------------------------SEMN1
+
+16:00 - 16:45
+
+16:45 - 17:30
+
+2. Horario Primer Semestre:
+
+Hora/Entrada/Salida----------Lunes----------Martes----------Miercoles----------Jueves----------Viernes----------Sabado
+
+7:00 - 7:45
+
+7:45 - 8:30
+
+8:30 - 9:15
+
+9:15 - 10:00
+
+10:00 - 10:45
+
+10:45 - 11:30
+
+11:30 - 12:15
+
+13:00 - 13:45
+
+13:45 - 14:30
+
+14:30 - 15:15
+
+15:15 - 16:00
+
+16:00 - 16:45
+
+16:45 - 17:30
+
+3. Horario Tercer Semestre:
+
+Hora/Entrada/Salida----------Lunes----------Martes----------Miercoles----------Jueves----------Viernes----------Sabado
+
+7:00 - 7:45
+
+7:45 - 8:30
+
+8:30 - 9:15
+
+9:15 - 10:00
+
+10:00 - 10:45
+
+10:45 - 11:30
+
+11:30 - 12:15
+
+13:00 - 13:45
+
+13:45 - 14:30
+
+14:30 - 15:15
+
+15:15 - 16:00
+
+16:00 - 16:45
+
+16:45 - 17:30
+
+4. Horario Cuarto Semestre:
+
+Hora/Entrada/Salida----------Lunes----------Martes----------Miercoles----------Jueves----------Viernes----------Sabado
+
+7:00 - 7:45
+
+7:45 - 8:30
+
+8:30 - 9:15
+
+9:15 - 10:00
+
+10:00 - 10:45
+
+10:45 - 11:30
+
+11:30 - 12:15
+
+13:00 - 13:45
+
+13:45 - 14:30
+
+14:30 - 15:15
+
+15:15 - 16:00
+
+16:00 - 16:45
+
+16:45 - 17:30
+
+5. Horario Quinto Semestre:
+
+Hora/Entrada/Salida----------Lunes----------Martes----------Miercoles----------Jueves----------Viernes----------Sabado
+
+7:00 - 7:45
+
+7:45 - 8:30
+
+8:30 - 9:15
+
+9:15 - 10:00
+
+10:00 - 10:45
+
+10:45 - 11:30
+
+11:30 - 12:15
+
+13:00 - 13:45
+
+13:45 - 14:30
+
+14:30 - 15:15
+
+15:15 - 16:00
+
+16:00 - 16:45
+
+16:45 - 17:30
+
+6. Horario Sexto Semestre:
+
+Hora/Entrada/Salida----------Lunes----------Martes----------Miercoles----------Jueves----------Viernes----------Sabado
+
+7:00 - 7:45
+
+7:45 - 8:30
+
+8:30 - 9:15
+
+9:15 - 10:00
+
+10:00 - 10:45
+
+10:45 - 11:30
+
+11:30 - 12:15
+
+13:00 - 13:45
+
+13:45 - 14:30
+
+14:30 - 15:15
+
+15:15 - 16:00
+
+16:00 - 16:45
+
+16:45 - 17:30
+
+7. Horario Septimo Semestre:
+
+Hora/Entrada/Salida----------Lunes----------Martes----------Miercoles----------Jueves----------Viernes----------Sabado
+
+7:00 - 7:45
+
+7:45 - 8:30
+
+8:30 - 9:15
+
+9:15 - 10:00
+
+10:00 - 10:45
+
+10:45 - 11:30
+
+11:30 - 12:15
+
+13:00 - 13:45
+
+13:45 - 14:30
+
+14:30 - 15:15
+
+15:15 - 16:00
+
+16:00 - 16:45
+
+16:45 - 17:30
+
+8. Horario Octavo Semestre:
+
+Hora/Entrada/Salida----------Lunes----------Martes----------Miercoles----------Jueves----------Viernes----------Sabado
+
+7:00 - 7:45
+
+7:45 - 8:30
+
+8:30 - 9:15
+
+9:15 - 10:00
+
+10:00 - 10:45
+
+10:45 - 11:30
+
+11:30 - 12:15
+
+13:00 - 13:45
+
+13:45 - 14:30
+
+14:30 - 15:15
+
+15:15 - 16:00
+
+16:00 - 16:45
+
+16:45 - 17:30
+
+9. Horario Noveno Semestre:
+
+Hora/Entrada/Salida----------Lunes----------Martes----------Miercoles----------Jueves----------Viernes----------Sabado
+
+7:00 - 7:45
+
+7:45 - 8:30
+
+8:30 - 9:15
+
+9:15 - 10:00
+
+10:00 - 10:45
+
+10:45 - 11:30
+
+11:30 - 12:15
+
+13:00 - 13:45
+
+13:45 - 14:30
+
+14:30 - 15:15
+
+15:15 - 16:00
+
+16:00 - 16:45
+
+16:45 - 17:30
